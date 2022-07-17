@@ -1,0 +1,74 @@
+c:\users\7\documents\visual studio 2015\Projects\BubbleSortVisualization\BubbleSortVisualization\bin\Debug\BubbleSortVisualization.exe.config
+c:\users\7\documents\visual studio 2015\Projects\BubbleSortVisualization\BubbleSortVisualization\bin\Debug\BubbleSortVisualization.exe
+c:\users\7\documents\visual studio 2015\Projects\BubbleSortVisualization\BubbleSortVisualization\bin\Debug\BubbleSortVisualization.pdb
+c:\users\7\documents\visual studio 2015\Projects\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.csprojResolveAssemblyReference.cache
+c:\users\7\documents\visual studio 2015\Projects\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\MainWindow.g.cs
+c:\users\7\documents\visual studio 2015\Projects\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\App.g.cs
+c:\users\7\documents\visual studio 2015\Projects\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\BubbleSortVisualization_MarkupCompile.cache
+c:\users\7\documents\visual studio 2015\Projects\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\BubbleSortVisualization_MarkupCompile.lref
+c:\users\7\documents\visual studio 2015\Projects\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\MainWindow.baml
+c:\users\7\documents\visual studio 2015\Projects\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.g.resources
+c:\users\7\documents\visual studio 2015\Projects\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.Properties.Resources.resources
+c:\users\7\documents\visual studio 2015\Projects\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.csproj.GenerateResource.Cache
+c:\users\7\documents\visual studio 2015\Projects\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.exe
+c:\users\7\documents\visual studio 2015\Projects\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.pdb
+C:\Users\7\Documents\Visual Studio 2015\Projects\MOJE_PROJEKTY\BubbleSortVisualization\BubbleSortVisualization\bin\Debug\BubbleSortVisualization.exe.config
+C:\Users\7\Documents\Visual Studio 2015\Projects\MOJE_PROJEKTY\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.exe
+C:\Users\7\Documents\Visual Studio 2015\Projects\MOJE_PROJEKTY\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.pdb
+C:\Users\7\Documents\Visual Studio 2015\Projects\MOJE_PROJEKTY\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.csprojResolveAssemblyReference.cache
+C:\Users\7\Documents\Visual Studio 2015\Projects\MOJE_PROJEKTY\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\MainWindow.g.cs
+C:\Users\7\Documents\Visual Studio 2015\Projects\MOJE_PROJEKTY\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\App.g.cs
+C:\Users\7\Documents\Visual Studio 2015\Projects\MOJE_PROJEKTY\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\BubbleSortVisualization_MarkupCompile.cache
+C:\Users\7\Documents\Visual Studio 2015\Projects\MOJE_PROJEKTY\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\BubbleSortVisualization_MarkupCompile.lref
+C:\Users\7\Documents\Visual Studio 2015\Projects\MOJE_PROJEKTY\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\MainWindow.baml
+C:\Users\7\Documents\Visual Studio 2015\Projects\MOJE_PROJEKTY\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.g.resources
+C:\Users\7\Documents\Visual Studio 2015\Projects\MOJE_PROJEKTY\BubbleSortVisualization\BubbleSortVisualization\bin\Debug\BubbleSortVisualization.exe
+C:\Users\7\Documents\Visual Studio 2015\Projects\MOJE_PROJEKTY\BubbleSortVisualization\BubbleSortVisualization\bin\Debug\BubbleSortVisualization.pdb
+C:\Users\7\Documents\Visual Studio 2015\Projects\MOJE_PROJEKTY\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.Properties.Resources.resources
+C:\Users\7\Documents\Visual Studio 2015\Projects\MOJE_PROJEKTY\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.csproj.GenerateResource.Cache
+C:\Users\Krzysztof\Desktop\Na GitHuba\BubbleSortVisualization\BubbleSortVisualization\bin\Debug\BubbleSortVisualization.exe.config
+C:\Users\Krzysztof\Desktop\Na GitHuba\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.exe
+C:\Users\Krzysztof\Desktop\Na GitHuba\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.pdb
+C:\Users\Krzysztof\Desktop\Na GitHuba\BubbleSortVisualization\BubbleSortVisualization\bin\Debug\BubbleSortVisualization.exe
+C:\Users\Krzysztof\Desktop\Na GitHuba\BubbleSortVisualization\BubbleSortVisualization\bin\Debug\BubbleSortVisualization.pdb
+C:\Users\Krzysztof\Desktop\Na GitHuba\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.csprojResolveAssemblyReference.cache
+C:\Users\Krzysztof\Desktop\Na GitHuba\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\MainWindow.g.cs
+C:\Users\Krzysztof\Desktop\Na GitHuba\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\App.g.cs
+C:\Users\Krzysztof\Desktop\Na GitHuba\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\BubbleSortVisualization_MarkupCompile.cache
+C:\Users\Krzysztof\Desktop\Na GitHuba\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\BubbleSortVisualization_MarkupCompile.lref
+C:\Users\Krzysztof\Desktop\Na GitHuba\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\MainWindow.baml
+C:\Users\Krzysztof\Desktop\Na GitHuba\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.g.resources
+C:\Users\Krzysztof\Desktop\Na GitHuba\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.Properties.Resources.resources
+C:\Users\Krzysztof\Desktop\Na GitHuba\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.csproj.GenerateResource.Cache
+C:\Users\Kaboom\Desktop\BubbleSortingVisualizer_WPF-master\BubbleSortingVisualizer_WPF-master\BubbleSortVisualization\bin\Debug\BubbleSortVisualization.exe.config
+C:\Users\Kaboom\Desktop\BubbleSortingVisualizer_WPF-master\BubbleSortingVisualizer_WPF-master\BubbleSortVisualization\bin\Debug\BubbleSortVisualization.exe
+C:\Users\Kaboom\Desktop\BubbleSortingVisualizer_WPF-master\BubbleSortingVisualizer_WPF-master\BubbleSortVisualization\bin\Debug\BubbleSortVisualization.pdb
+C:\Users\Kaboom\Desktop\BubbleSortingVisualizer_WPF-master\BubbleSortingVisualizer_WPF-master\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.csproj.AssemblyReference.cache
+C:\Users\Kaboom\Desktop\BubbleSortingVisualizer_WPF-master\BubbleSortingVisualizer_WPF-master\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kaboom\Desktop\BubbleSortingVisualizer_WPF-master\BubbleSortingVisualizer_WPF-master\BubbleSortVisualization\obj\Debug\MainWindow.g.cs
+C:\Users\Kaboom\Desktop\BubbleSortingVisualizer_WPF-master\BubbleSortingVisualizer_WPF-master\BubbleSortVisualization\obj\Debug\App.g.cs
+C:\Users\Kaboom\Desktop\BubbleSortingVisualizer_WPF-master\BubbleSortingVisualizer_WPF-master\BubbleSortVisualization\obj\Debug\BubbleSortVisualization_MarkupCompile.cache
+C:\Users\Kaboom\Desktop\BubbleSortingVisualizer_WPF-master\BubbleSortingVisualizer_WPF-master\BubbleSortVisualization\obj\Debug\BubbleSortVisualization_MarkupCompile.lref
+C:\Users\Kaboom\Desktop\BubbleSortingVisualizer_WPF-master\BubbleSortingVisualizer_WPF-master\BubbleSortVisualization\obj\Debug\MainWindow.baml
+C:\Users\Kaboom\Desktop\BubbleSortingVisualizer_WPF-master\BubbleSortingVisualizer_WPF-master\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.g.resources
+C:\Users\Kaboom\Desktop\BubbleSortingVisualizer_WPF-master\BubbleSortingVisualizer_WPF-master\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.Properties.Resources.resources
+C:\Users\Kaboom\Desktop\BubbleSortingVisualizer_WPF-master\BubbleSortingVisualizer_WPF-master\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.csproj.GenerateResource.cache
+C:\Users\Kaboom\Desktop\BubbleSortingVisualizer_WPF-master\BubbleSortingVisualizer_WPF-master\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.csproj.CoreCompileInputs.cache
+C:\Users\Kaboom\Desktop\BubbleSortingVisualizer_WPF-master\BubbleSortingVisualizer_WPF-master\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.exe
+C:\Users\Kaboom\Desktop\BubbleSortingVisualizer_WPF-master\BubbleSortingVisualizer_WPF-master\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.pdb
+C:\Users\Kaboom\Desktop\c#\BubbleSortingVisualizer_WPF-master\BubbleSortingVisualizer_WPF-master\BubbleSortVisualization\bin\Debug\BubbleSortVisualization.exe.config
+C:\Users\Kaboom\Desktop\c#\BubbleSortingVisualizer_WPF-master\BubbleSortingVisualizer_WPF-master\BubbleSortVisualization\bin\Debug\BubbleSortVisualization.exe
+C:\Users\Kaboom\Desktop\c#\BubbleSortingVisualizer_WPF-master\BubbleSortingVisualizer_WPF-master\BubbleSortVisualization\bin\Debug\BubbleSortVisualization.pdb
+C:\Users\Kaboom\Desktop\c#\BubbleSortingVisualizer_WPF-master\BubbleSortingVisualizer_WPF-master\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.csproj.AssemblyReference.cache
+C:\Users\Kaboom\Desktop\c#\BubbleSortingVisualizer_WPF-master\BubbleSortingVisualizer_WPF-master\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kaboom\Desktop\c#\BubbleSortingVisualizer_WPF-master\BubbleSortingVisualizer_WPF-master\BubbleSortVisualization\obj\Debug\MainWindow.g.cs
+C:\Users\Kaboom\Desktop\c#\BubbleSortingVisualizer_WPF-master\BubbleSortingVisualizer_WPF-master\BubbleSortVisualization\obj\Debug\App.g.cs
+C:\Users\Kaboom\Desktop\c#\BubbleSortingVisualizer_WPF-master\BubbleSortingVisualizer_WPF-master\BubbleSortVisualization\obj\Debug\BubbleSortVisualization_MarkupCompile.cache
+C:\Users\Kaboom\Desktop\c#\BubbleSortingVisualizer_WPF-master\BubbleSortingVisualizer_WPF-master\BubbleSortVisualization\obj\Debug\BubbleSortVisualization_MarkupCompile.lref
+C:\Users\Kaboom\Desktop\c#\BubbleSortingVisualizer_WPF-master\BubbleSortingVisualizer_WPF-master\BubbleSortVisualization\obj\Debug\MainWindow.baml
+C:\Users\Kaboom\Desktop\c#\BubbleSortingVisualizer_WPF-master\BubbleSortingVisualizer_WPF-master\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.g.resources
+C:\Users\Kaboom\Desktop\c#\BubbleSortingVisualizer_WPF-master\BubbleSortingVisualizer_WPF-master\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.Properties.Resources.resources
+C:\Users\Kaboom\Desktop\c#\BubbleSortingVisualizer_WPF-master\BubbleSortingVisualizer_WPF-master\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.csproj.GenerateResource.cache
+C:\Users\Kaboom\Desktop\c#\BubbleSortingVisualizer_WPF-master\BubbleSortingVisualizer_WPF-master\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.csproj.CoreCompileInputs.cache
+C:\Users\Kaboom\Desktop\c#\BubbleSortingVisualizer_WPF-master\BubbleSortingVisualizer_WPF-master\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.exe
+C:\Users\Kaboom\Desktop\c#\BubbleSortingVisualizer_WPF-master\BubbleSortingVisualizer_WPF-master\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.pdb
